@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (AWID3 is huge — do not commit)
+data/
+*.csv
+*.parquet
+
+# Model checkpoints / weights
+*.pt
+*.pth
+*.pkl
+checkpoints/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/

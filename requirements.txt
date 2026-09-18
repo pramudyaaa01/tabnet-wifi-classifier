@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+psutil
+scikit-learn
+imbalanced-learn
+torch
+pytorch-tabnet
+matplotlib
